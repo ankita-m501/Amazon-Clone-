@@ -1,2 +1,4 @@
 # Amazon-Clone
-My first repository, an Amazon website clone using only HTML and CSS
+My first repository, an Amazon website clone using only HTML and CSS.
+<br>
+Author- Ankita Majumdar
